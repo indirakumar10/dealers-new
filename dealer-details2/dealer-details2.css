@@ -1,0 +1,8 @@
+table td,th{
+    border: solid rgb(210, 210, 23);
+    width:1200px;height:50px;
+}
+table{
+border-collapse:collapse;
+width: 0.2px;
+}
